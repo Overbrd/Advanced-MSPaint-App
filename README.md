@@ -1,16 +1,20 @@
-###Advanced MS-Paint App
+### Advanced MS-Paint App
 
-##Written in C#.
+Has extended capabilities beyond the MS Paint App included with Windows.
 
-##Uses .Net 4.0.
-
-#Compatible with Visual Studio 2022.
+## Written in C#
 
 Code originally supplied by malharthi in August, 2012:
 
 https://github.com/malharthi/Paint
 
 Code has been updated to be compatible with newer VS and .Net 4.
+
+## Uses .Net 4.0
+
+Visual Studio code has been updated from 2012 to 2022.
+
+# Compatible with Visual Studio 2022.
 
 Program.cs:
 
