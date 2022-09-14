@@ -1,4 +1,4 @@
-### Advanced MS-Paint App
+# Advanced MS-Paint App
 
 Has extended capabilities beyond the MS Paint App included with Windows.
 
@@ -14,7 +14,7 @@ Code has been updated to be compatible with newer VS and .Net 4.
 
 Visual Studio code has been updated from 2012 to 2022.
 
-# Compatible with Visual Studio 2022.
+### Compatible with Visual Studio 2022.
 
 Program.cs:
 
